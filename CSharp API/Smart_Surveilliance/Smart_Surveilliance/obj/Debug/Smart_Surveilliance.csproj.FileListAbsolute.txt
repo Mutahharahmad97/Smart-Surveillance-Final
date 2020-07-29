@@ -1,0 +1,201 @@
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csprojAssemblyReference.cache
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.exe.config
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csproj.CoreCompileInputs.cache
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.exe.config
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.exe
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.pdb
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Data.Common.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.IO.Compression.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Http.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Sockets.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.SecureString.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Buffers.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Memory.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Thrift45.dll
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Buffers.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Memory.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csproj.CopyComplete
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.exe
+C:\Users\SHAKH\Documents\VS Code\Smart Surveilliance\CSharp\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.pdb
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.exe.config
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.exe
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.pdb
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Data.Common.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.IO.Compression.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Http.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Sockets.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.SecureString.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Buffers.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Memory.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Thrift45.dll
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Buffers.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Memory.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csprojAssemblyReference.cache
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.exe.config
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csproj.CoreCompileInputs.cache
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csproj.CopyComplete
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.exe
+C:\Users\SHAKH\Documents\VS Code\Smart-Surveillance\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.pdb
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.exe.config
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.exe
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Smart_Surveilliance.pdb
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Data.Common.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.IO.Compression.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Http.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Sockets.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.SecureString.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Buffers.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Memory.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Thrift45.dll
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Buffers.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Memory.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csprojAssemblyReference.cache
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.exe.config
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csproj.CoreCompileInputs.cache
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.csproj.CopyComplete
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.exe
+C:\Users\SHAKH\Documents\FYP\Smart-Surveillance-Final\CSharp API\Smart_Surveilliance\Smart_Surveilliance\obj\Debug\Smart_Surveilliance.pdb
