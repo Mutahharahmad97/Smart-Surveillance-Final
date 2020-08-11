@@ -69,7 +69,7 @@ class MainWindow(QtWidgets.QMainWindow):
         uniform_Recognition_Frame,color = self.Uniform_Recognition_(uniform_Recognition_Frame)
         
         # message = 'alert'
-        # r = requests.get(UR_Service_Url + '?message=' + message).json()
+        # r = requests.get(ES_Service_Url + '?message=' + message).json()
         # if(r['status'] == 'Ok'):
         #    continue
         

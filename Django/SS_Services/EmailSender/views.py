@@ -7,7 +7,7 @@ def SendEmail(request):
     try:
         emailToSend = request.GET.get('message',None)
         send_mail('Alert', emailToSend,
-                  'mutahharahmad9@gmail.com', ['django@mailinator.com', ], fail_silently=False)
+                  'mutahharahmad9@gmail.com', ['fypss@mailinator.com', ], fail_silently=False)
         return JsonResponse({'status': 'OK'})
 
     except Exception as e:
